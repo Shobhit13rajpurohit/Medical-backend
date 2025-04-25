@@ -1,2 +1,5 @@
 pymysql
 python-dotenv
+uvicorn
+fastapi
+sqlalchemy
